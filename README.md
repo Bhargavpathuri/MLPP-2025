@@ -92,7 +92,8 @@ This project investigates the **digital divide** in broadband access across U.S.
 ##  Files Included
 
 - `mlpp25_project_bpathuri.ipynb`: Complete code with explanations, extract it from WinRAR
-- `MLPP 2025 Datasets and tl shape files`: All the datasets and files required for this project, downloaded from https://data.census.gov/
+- `MLPP 2025 Datasets`: All the datasets and files required for this project, downloaded from https://data.census.gov/
+- Download the tl shape files from https://data.census.gov/
 - `Broadband accessibility and the digital divide -Bhargav Pathuri.pptx`: Final project presentation
 
 ---
