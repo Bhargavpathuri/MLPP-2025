@@ -10,13 +10,13 @@ MLPP25 // Broadband accessibility and the digital divide.
 
 ---
 
-## 📍 Project Overview
+##  Project Overview
 
 This project investigates the **digital divide** in broadband access across U.S. counties by identifying the **socioeconomic factors** contributing to disparities. Using publicly available Census datasets and machine learning techniques, we quantify how factors such as income, education, and employment affect broadband accessibility.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze **county-level geospatial and demographic data**
 - Visualize patterns in broadband accessibility
@@ -25,7 +25,7 @@ This project investigates the **digital divide** in broadband access across U.S.
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. **Data Collection**
 - Data sourced from U.S. Census ACS (2019–2023) on:
@@ -46,25 +46,25 @@ This project investigates the **digital divide** in broadband access across U.S.
 
 ---
 
-## 📊 Machine Learning Models
+##  Machine Learning Models
 
-### ✅ **Classification – Random Forest Classifier**
+###  **Classification – Random Forest Classifier**
 - Target: Binary broadband access (above/below national median)
 - Accuracy: **82%** | AUC: **0.90**
 - Most important feature: **Median Income**
 
-### 📉 **Regression – Random Forest Regressor**
+###  **Regression – Random Forest Regressor**
 - Target: Poverty Rate  
 - R² Score: **0.72**  
 - Key insight: **Poverty is inversely correlated with broadband access**
 
-### 🧩 **Clustering – K-Means**
+###  **Clustering – K-Means**
 - Clustered counties based on **Median Income**
 - Revealed clear income-employment-poverty patterns affecting broadband access
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - **Median income** is the strongest predictor of broadband availability
 - The **income-employment-poverty triad** significantly shapes digital access
@@ -72,7 +72,7 @@ This project investigates the **digital divide** in broadband access across U.S.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python (pandas, numpy, matplotlib, seaborn)
 - scikit-learn (Random Forest, KMeans, GridSearchCV)
@@ -81,7 +81,7 @@ This project investigates the **digital divide** in broadband access across U.S.
 
 ---
 
-## 📌 Future Work
+##  Future Work
 
 - Include additional features (e.g., ISP availability, local policies)
 - Explore temporal changes using broadband trends over years
@@ -89,14 +89,14 @@ This project investigates the **digital divide** in broadband access across U.S.
 
 ---
 
-## 📎 Files Included
+##  Files Included
 
-- `mlpp25_project_bpathuri.ipynb`: Complete code with explanations
+- `mlpp25_project_bpathuri.ipynb`: Complete code with explanations, extract it from WinRAR
 - `Broadband accessibility and the digital divide -Bhargav Pathuri.pptx`: Final project presentation
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Feel free to connect:  
 LinkedIn Profile Link :- www.linkedin.com/in/bhargav-pathuri-2486b61a7
